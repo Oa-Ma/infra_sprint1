@@ -1,5 +1,5 @@
-IP: 158.160.4.181
-name_taski: https://taskiproject.bounceme.net/
-name_kittygram: https://kittygramproject.bounceme.net/
-login: yc-user
-password: 000
+IP: 158.160.4.181;
+name_taski: https://taskiproject.bounceme.net/;
+name_kittygram: https://kittygramproject.bounceme.net/;
+login: yc-user;
+password: 000;
